@@ -379,4 +379,14 @@ body {
 }
 
 
+.three-col-img-sponsor-wrapper{
+	margin-right: 40px;
+	margin-left: 40px;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
 
+.magoosh-content-wrapper{
+	width: 400px;
+	height: 100%;
+}
